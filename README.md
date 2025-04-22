@@ -1,5 +1,5 @@
 # github-final-project
-This repository is created for submitting the final project of the Coursera Course "Getting started with Git and GitHub""
+This repository is created for submitting the final project of the Coursera Course "Getting started with Git and GitHub"
 
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
